@@ -19,5 +19,7 @@ En este repositorio Esta una serie de programas en Python
 3) Programa en Python que esta la Función de la serie Fibonacci
 4) Para el calculo fisico del Movimiento circular uniforme
 5) Programa de Python para el calculo de las funciones en Matematicas
+6) Para el cálculo del perimetro del circulo
+7) Para el calculo del perimetro del cuadrado
 
 

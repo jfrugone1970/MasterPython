@@ -18,4 +18,6 @@ En este repositorio Esta una serie de programas en Python
 2) Para el cálculo del factorial de un número
 3) Programa en Python que esta la Función de la serie Fibonacci
 4) Para el calculo fisico del Movimiento circular uniforme
+5) Programa de Python para el calculo de las funciones en Matematicas
+
 
